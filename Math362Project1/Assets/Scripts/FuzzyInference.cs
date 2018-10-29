@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-using Antecedents;
-
 namespace FuzzyAssignment
 {
     public class FuzzyInference {
