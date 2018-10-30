@@ -16,6 +16,7 @@ namespace FuzzyAssignment
             mValue = value;
         }
 
+        // De-fuzzify
         public bool IsTrue()
         {
             return mValue > .5;
